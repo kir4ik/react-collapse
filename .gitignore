@@ -12,8 +12,9 @@ pids
 /node_modules/
 
 /build/
-/lib/
+# /lib/
 /pub/
 /reports/
 
 /.eslintcache
+.vscode
